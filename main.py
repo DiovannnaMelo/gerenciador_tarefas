@@ -9,7 +9,7 @@ def listar_tarefas(lista_tarefas):
     # Implementar a função aqui
 
 def remover_tarefa(lista_tarefas, indice):
-    """Remove uma tarefa da lista pelo índice."""
+    tarefa_resolvida = tarefa.pop(1)
     # Implementar a função aqui
 
 def main():
